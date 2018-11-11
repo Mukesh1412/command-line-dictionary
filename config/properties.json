@@ -1,0 +1,9 @@
+{
+  "api" : "https://od-api.oxforddictionaries.com:443/api/v1",
+  "headers" :{
+    "Accept": "application/json",
+    "app_id": "0d0eec31",
+    "app_key": "b9e9d3c408de7cbf5fd2066bf4138660"
+}
+
+}

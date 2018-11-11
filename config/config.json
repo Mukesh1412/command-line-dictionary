@@ -1,0 +1,22 @@
+{
+  "endPoints" : {
+    "definition" : {
+        "url" : "{api}/entries/en/{word}"
+    },
+    "synonym" : {
+      "url" : "{api}/entries/en/{word}/synonyms"
+    },
+    "antonym" : {
+      "url" : "{api}/entries/en/{word}/antonyms"
+    },
+    "topExample" : {
+      "url" : "{api}/entries/en/{word}/sentences"
+    },
+    "wordOfTheDay" : {
+      "url" : "{api}/wordlist/en/domains%3DArt?limit=40"
+    },
+    "randomWord" : {
+      "url" : "{api}/wordlist/en/domains%3DSport?limit=100"
+    }
+  }
+}
