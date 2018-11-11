@@ -37,7 +37,7 @@ If incorrect word is entered, program should ask for
 1. try again
 
 	Lets user enter word again
-2. hint
+2. Hint
 	Hint can be
 	1. Display the word randomly jumbled (cat -> atc).
 	2. Display another definition of the word.
